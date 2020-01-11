@@ -2,7 +2,7 @@
 教材 《数据结构（用面向对象方法与C++语言描述）》（第二版）  
 教材作者 殷人昆  
 <center>
-<img src="./data/教材封面.jpg" width="90%">
+<img src="./data/教材封面.jpg" width="50%">
 </center>
 
 <!-- TOC -->
